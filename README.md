@@ -1,6 +1,7 @@
 PROJEKT GLORPO
 
 1. O projekcie
+
 Projekt został stworzony w ramach konkursu GEEK.
 
 2. Instrukcja uruchamiania
@@ -37,4 +38,5 @@ Michał Goraj - Główny projektant gry oraz scenarzysta
 Adam Bartosz - Projektant szczegółowej koncepcji oraz projektant postaci.
 
 4. Licencja
+
 BSD-3-Clause license
