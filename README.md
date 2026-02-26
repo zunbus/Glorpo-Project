@@ -5,6 +5,7 @@ PROJEKT GLORPO
 Projekt został stworzony w ramach konkursu GEEK.
 
 2. Instrukcja uruchamiania
+
 a) WYMAGANIA SPRZĘTOWE
 Unreal Engine 5 polega na nowoczesnych systemach graficznych,
 co oznacza, że sprzęt powinien być co najmniej przyzwoity.
